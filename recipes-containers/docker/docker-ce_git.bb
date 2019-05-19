@@ -18,7 +18,7 @@ DESCRIPTION = "Linux container runtime \
  subtle and/or glaring issues. \
  "
 
-SRCREV_docker = "0520e243029d1361649afb0706a1c5d9a1c012b8"
+SRCREV_docker = "481bc7715621adba10752357e0d537c8dc86507d"
 SRCREV_libnetwork = "4cb38c2987c236dce03c868d99b57b1e28a4b81c"
 SRCREV_cli = "0f1bb353423e45e02315e985bd9ddebe6da18457"
 SRC_URI = "\
